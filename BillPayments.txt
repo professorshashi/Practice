@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UPI</title>
+</head>
+<body>
+
+    <h2>Bill Payment made simple</h2>
+
+    <p>PayTM supports following bill payment</p>
+    <ol>
+        <li>Mobile recharge</li>
+        <li>Electricity bill</li>
+        <li>Internet bill</li>
+        <li>Rent payment</li>
+        <li>Buy Google Play Code</li>
+    </ol>
+    
+</body>
+</html>
